@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @harshahrudhay
-- 👀 I’m interested in iOS Application Development
-- 🌱 I’m currently learning flutter
+- 👀 I’m interested in Cyber Security
 - 💞️ I’m looking to collaborate on Projects on IOS
 - 📫 How to reach me harshahay9@gmail.com
 
