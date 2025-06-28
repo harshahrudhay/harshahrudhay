@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @harshahrudhay
 - 👀 I’m interested in Cyber Security
-- 💞️ I’m looking to collaborate on Projects on IOS
+- 💞️ I’m looking to collaborate on IOS Projects 
 - 📫 How to reach me harshahay9@gmail.com
 
 <!---
